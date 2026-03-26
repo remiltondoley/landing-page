@@ -1,4 +1,4 @@
-# PRODIGY_WD_01
+
 
 🌐 Interactive Navigation Menu
 A fully responsive, mobile-friendly, and interactive navigation menu built with HTML, Tailwind CSS, Font Awesome, and JavaScript. It features a sticky navigation bar, smooth scrolling, dynamic section highlighting, and animated mobile toggling—ideal for modern websites and portfolios.
